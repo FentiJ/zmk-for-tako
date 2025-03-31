@@ -78,7 +78,7 @@
         default_layer {
             bindings = <
 &kp Q  &kp W  &kp E  &kp R      &kp T          &kp Y      &kp U          &kp I      &kp O    &kp P
-&kp A  &kp S  &kp D  &kp F      &kp G          &kp H      &kp J          &kp K      &kp L    &kp SEMICOLON
+&kp A  &kp S  &kp D  &kp F      &kp G          &kp H      &kp J          &kp K      &kp L    &kp COLON
 &kp Z  &kp X  &kp C  &kp V      &kp B          &kp N      &kp M          &kp COMMA  &kp DOT  &kp QUESTION
                      &kp RCTRL  &lt 1 ENTER    &kp SPACE  &kp BACKSPACE
             >;
@@ -87,7 +87,7 @@
         nav_layer {
             bindings = <
 &kp ESC      &kp CAPSLOCK  &kp UP_ARROW    &kp TAB    &kp PAGE_UP    &kp PAGE_DOWN   &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp N0
-&kp AT_SIGN  &kp LEFT      &kp DOWN_ARROW  &kp RIGHT  &kp DELETE     &kp LEFT_SHIFT  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp SQT
+&kp AT_SIGN  &kp LEFT      &kp DOWN_ARROW  &kp RIGHT  &kp DELETE     &kp LEFT_SHIFT  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp DOUBLE_QUOTES
 &trans       &trans        &trans          &trans     &trans         &trans          &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp END
                                            &trans     &trans         &kp RCTRL       &none
             >;
