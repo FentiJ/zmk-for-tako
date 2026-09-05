@@ -32,7 +32,7 @@ layers:
   - .
   - {t: /, h: LSHFT}
   - {t: LSHFT, h: '3'}
-  - {t: LEFT WIN, h: nav}
+  - {t: ENTER, h: nav}
   - SPACE
   - {t: BACKSPACE, h: other}
   nav:
